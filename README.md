@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rasulev Bobur (@Bobur99)
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💻 I’m interested in Frontend development
+- 🤝 I’m looking to collaborate on ...
 - 📫 How to reach me - telegram: @b_rasulev or email: rasulev.bobur.1999@mail.ru
 
 <!--
